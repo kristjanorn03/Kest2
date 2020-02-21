@@ -5,7 +5,7 @@
  *
 ### 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
  * What key or combination of keys is used to run Setup on your computer?
-   * svar: F1 takkinn.
+   * svar: F1 
  * Who is the manufacturer of the BIOS?
    * Lenovo
  * Which BIOS version is installed in your computer?
@@ -13,9 +13,19 @@
  * What is the current BIOS version available for the motherboard? 
    * LENOVO ASCN36WW
 ### 3.1.2.7 Lab - Install Third-Party Software in Windows
- *
+ * What is the default installation location for Packet Tracer?
+   * C:\Program Files\Packet Tracer
+ * Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
+   * To get rid of everything from that application
 ### 10.2.1.8 Lab - Create a Partition in Windows
- *
+ * What type of File System is used on the NEW VOLUME (I:)?
+   * FAT32
+ * How much Free Space is shown?
+   * 1.99 GB
+ * List the tabs found in the NEW VOLUME (I): Properties window?
+   * ReadyBoost, previous Versions, Cuztomize, General, tools, Hardware, Sharing.
+ * What tabs are listed in the ITE Test Document Properties window?
+   * General, Details, Previous Versions.
 ### 11.1.2.10 Lab - Explore the Windows Desktop
  *
 ### 11.1.3.4 Lab - Work with Task Manager
