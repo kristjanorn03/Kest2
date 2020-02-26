@@ -27,9 +27,7 @@
  * What tabs are listed in the ITE Test Document Properties window?
    * General, Details, Previous Versions.
 ### 11.1.2.10 Lab - Explore the Windows Desktop
- *
-### 11.1.3.4 Lab - Work with Task Manager
- * List some of the icons that are on the Desktop.
+ * * List some of the icons that are on the Desktop.
    * Google Chrome, Microsoft Edge, Recycle Bin.
  * What type of information is available on the Desktop and Taskbar?
    * Shortcuts to Apps, Search bar, Date & Time.
@@ -38,9 +36,61 @@
  * Right-click an application or a Windows tile from within the Start Menu. What are some of the available options?
    * Pin to start, Pin to taskbar, run as administrator and uninstall.
  * What are the available options in the Taskbar settings?
-   * Lock the Taskbar, automatically hide the taskbar in tablet mode, use small taskbar buttons, show badges on taskbar buttons.
+   * Lock the Taskbar
+   * automatically hide the taskbar in tablet mode
+   * use small taskbar buttons
+   * show badges on taskbar buttons.
+ * What are the available options in the Task View settings?
+   * New Desktop, see more days in timeline.
+   * all open Desktops.
+   * all open applications.
+ * Navigate to Desktop 1 and open an application in Desktop 1. What Happened?
+   * I could open it in a new Desktop aswell, nothing special happened.
+ * Notification area provides information list examples.
+  * Battery 
+  * Hidden icons
+  * Power
+  * Wifi connection
+  * Audio
+  * Language
+  * Time & Date
+  * Notification bar
+ * what are the behavior options for the icons (windows 7, 8)
+  * Show icon and notifications
+  * Hide icon and notifications
+  * Only show notifications
+ * Click Turn system icons on or off. List the system icons that can be enabled.
+  * Clock
+  * Volume
+  * Network
+  * Power
+  * Input indicator
+  * Location
+  * Action Center
+  * Touch keyboard
+  * Windows Ink Workspace
+  * Touchpad
+  * Microphone
+* (In Action Center) What can you do in the Notification & actions Settings window?
+  * Tablet mode
+  * Location
+  * Battery saver
+  * Bluetooth
+  * Night light
+  * Mobile hotspot
+  * Airplane mode
+  * Nearby sharing
+  * All settings
+  * Network
+  * Connect
+  * Project
+  * VPN
+  * Focus assist
+  * Screen strip
+### 11.1.3.4 Lab - Work with Task Manager
 ### 11.1.4.11 Lab - Working with File Explorer
- *
+ * What happened with Folder1 and Folder2 on the Desktop?
+   * folder2 moved into folder1.
 ### 11.2.1.5 Lab - Explore Control Panel Categories
  *
 ### 11.2.2.3 Lab - User Accounts
