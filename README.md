@@ -29,7 +29,16 @@
 ### 11.1.2.10 Lab - Explore the Windows Desktop
  *
 ### 11.1.3.4 Lab - Work with Task Manager
- *
+ * List some of the icons that are on the Desktop.
+   * Google Chrome, Microsoft Edge, Recycle Bin.
+ * What type of information is available on the Desktop and Taskbar?
+   * Shortcuts to Apps, Search bar, Date & Time.
+ * Name a few applications listed in the Start Menu.
+   * Calculator, Camera, Settings and Documents.
+ * Right-click an application or a Windows tile from within the Start Menu. What are some of the available options?
+   * Pin to start, Pin to taskbar, run as administrator and uninstall.
+ * What are the available options in the Taskbar settings?
+   * Lock the Taskbar, automatically hide the taskbar in tablet mode, use small taskbar buttons, show badges on taskbar buttons.
 ### 11.1.4.11 Lab - Working with File Explorer
  *
 ### 11.2.1.5 Lab - Explore Control Panel Categories
