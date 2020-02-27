@@ -92,6 +92,25 @@
   * Focus assist
   * Screen strip
 ### 11.1.3.4 Lab - Work with Task Manager
+ * To force the web browser to close, highlight the browser, and click End task. What happened?
+   * The browser closed.
+ * Open the web browser again. Right-click the web browser in the Task Manager. What options are available?
+   * Switch to, End Task, Provide Feedback, Debug, Create dump file, Run new task, Go to Details, Search Online, Properties.
+ * Click the Services tab. Use the scroll bar on the right side of the Services window to view all the services
+listed. What statuses are listed? 
+   * Stopped and Running.
+ * Right-click on one of the services listed. What are the available actions that can be taken?
+   * Start, Stop, Restart, Open services, Search online, go to details.
+ * What is the current utilization of the CPU?
+   * 20%
+ * How many streams of instructions (i.e. Threads) are currently running?
+   * 2116
+ * How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+   * 212
+ * What is the total physical memory (MB)?
+   * 16000
+ * What is the available physical memory (MB)?
+   * 10600
 ### 11.1.4.11 Lab - Working with File Explorer
  * What happened with Folder1 and Folder2 on the Desktop?
    * folder2 moved into folder1.
