@@ -1,6 +1,5 @@
 # Kest2
 ### 10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)
-  * svar:
 ### 10.3.1.4 Lab - Finalize the Windows Installation
  *
 ### 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
