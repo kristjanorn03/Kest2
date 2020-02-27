@@ -1,7 +1,12 @@
 # Kest2
 ### 10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)
 ### 10.3.1.4 Lab - Finalize the Windows Installation
- *
+ * What options are available in the Driver tab?
+  * Driver Details
+  * Update Driver
+  * Roll Back Driver
+  * Disable Device
+  * Uninstall Device
 ### 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
  * What key or combination of keys is used to run Setup on your computer?
    * svar: F1 
