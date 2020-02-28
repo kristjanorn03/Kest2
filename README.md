@@ -221,12 +221,29 @@ What are the attributes associated with this file?
 ## 11.2.5.8 Lab - Manage Virtual Memory
  * What is the current size of the virtual memory (paging file)?
    * 1920 MB
- * 
-   * 
+ * What Drive [Volume Label] contains the paging file?
+   * C:
+ * What is the recommended paging file size for all drives?
+   * 3 GB
+ * What Drive [Volume Label] contains the paging file?
+   * I:
+ * Why would you ever change the default virtual memory page file settings in Windows?
+   * Used to manage memory space, but isn't used often.
 ### 11.2.6.2 Lab - Use Device Manager
- *
+ * What information is listed in the Device Manager window? Why would you use it?
+   * There are all sorts of information in the device manager, for example, Audio inputs and outputs, computer, keyboards, processors and so on. This information is useful to know what device/devices you are going to manage.
+ * Browse through the menus displayed at the top of the Device Manager window. Ho would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+   * You could go online and search for drivers there if the windows system doesn't recognize them. 
+ * What additional information does Driver Details provide?
+   * It provides the provider, the date the driver is from, the version and the digital signer.
+ * What two options do you have for updating the driver?
+   * here are two options in the update driver tab. Search automatically for updated driver software or browse your computer for driver software.
+ * What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
+   * The roll back driver button is a failsafe for if the device fails after updating the driver it goes automatically back to the previous version. The button can be grayed out and it is in this case because it does not require to use it at the moment.
+ * What are the other available options?
+   * Other available options in the driver tab are Disable device and Uninstall device.
 ## 11.3.1.11 Lab - Monitor and Manage System Resources
- *
+ * 
 ### 11.3.2.7 Lab - System Utilities
  *
 ### 11.3.2.8 Lab - Manage System Files
